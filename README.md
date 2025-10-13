@@ -18,6 +18,20 @@
   Contudo, a revisão e os ajustes manuais foram essenciais para garantir a qualidade do código gerado, aplicando conceitos de Arquitetura Web e Design.
 </p>
 
+**Visualização em Tempo Real:** <br>
+https://prompt-manager-app.netlify.app
+
+<br>
+
+<h2>
+  <img width="30px" height="30px" alt="image" src="https://github.com/user-attachments/assets/3c4f5da6-688e-4f87-8d87-5039bdf2a24c" />
+Imagem da Aplicação
+</h2>
+
+| Prévia Desktop |
+| :---: |
+| <img src="./assets/img/preview-prompt.png" alt="Prévia da versão Desktop" width="800"/> |
+
 <br>
 
 <h2>
