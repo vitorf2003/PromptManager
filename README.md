@@ -1,7 +1,9 @@
+<br>
 <div align="center">
-  <img src="assets/img/PromptLogo.png" width="300em" height="300em">
+  <img src="assets/img/PromptManagerLogo.png">
 </div>
 
+<br>
 <br>
 
 <h2>
@@ -24,8 +26,8 @@
 
 * **Responsividade:** Layout totalmente adaptado a desktops, notebooks, tablets e smartphones.
 * **Organização Centralizada:** Gerencia todos os prompts de IA em um único lugar (barra lateral).
-* **Acesso Rápido:** Busca e Filtragem de prompts por título (campo "Buscar por título...").
-* **Criação Fácil:** Cadastro de novos prompts (botão "Novo prompt").
+* **Acesso Rápido:** Busca e Filtragem de prompts por título (campo "Buscar por título").
+* **Criação Fácil:** Cadastro de novos prompts (botão "Novo Prompt").
 * **Edição Completa:** Visualização e Edição do título e conteúdo de cada prompt selecionado.
 * **Reutilização Imediata:** Botão "Copiar" para transferir o conteúdo do prompt para a área de transferência rapidamente.
 * **Persistência de Dados:** Botão "Salvar" para salvar ou atualizar as edições feitas no prompt.
